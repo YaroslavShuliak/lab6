@@ -1,0 +1,2 @@
+C:\Users\ZAKHAR\GIT6\lab6\MyList\obj\Debug\MyList.csproj.AssemblyReference.cache
+C:\Users\ZAKHAR\GIT6\lab6\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache

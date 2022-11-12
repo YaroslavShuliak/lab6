@@ -1,0 +1,1 @@
+C:\Users\ZAKHAR\GIT6\lab6\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
